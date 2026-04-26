@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "ion-light",
   "type": "light",
   "colors": {
@@ -71,10 +72,11 @@
     //"statusBar.debuggingBorder": "#5EB563",
     "statusBar.debuggingForeground": "#000",
     //title bar
-    "titleBar.activeBackground": "#27282E",
-    "titleBar.inactiveBackground": "#383A42",
-    "titleBar.activeForeground": "#E7EBED",
-    "titleBar.border": "#27282E",
+    "titleBar.activeBackground": "#FFFFFF",
+    "titleBar.activeForeground": "#080808",
+    "titleBar.inactiveBackground": "#FFFFFF",
+    "titleBar.inactiveForeground": "#6C707E",
+    "titleBar.border": "#00000000",
     "commandCenter.border": "#27282E",
     "commandCenter.activeBorder": "#27282E",
     "commandCenter.inactiveBorder": "#383A42",
