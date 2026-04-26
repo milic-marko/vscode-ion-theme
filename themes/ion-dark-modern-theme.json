@@ -12,36 +12,36 @@
     "typeParameter": "#16BAAC",
     "parameter": "#CFD2D5FF",
     "variable": "#CFD2D5FF",
-    "property": "#A782BB",
+    "property": "#C77DBBFF",
     "enumMember": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
-    "decorator": "#BBB529FF",
+    "decorator": "#B3AE60",
     "event": "#CFD2D5FF",
     "function": "#CFD2D5FF",
     "method": "#CFD2D5FF",
-    "macro": "#CC7832FF",
+    "macro": "#CF8E6D",
     "label": "#32B8AF",
     "comment": "#7A7E85",
     "string": "#6AAB73",
-    "keyword": "#CC7832FF",
+    "keyword": "#CF8E6D",
     "number": "#DDA52D",
     "regexp": "#42C3D4",
     "operator": "#CFD2D5FF",
     "variable.readonly": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "variable.defaultLibrary": "#CFD2D5FF",
     "property.readonly": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
-    "function.declaration": "#FFC66DFF",
-    "method.declaration": "#FFC66DFF",
-    "function.defaultLibrary": "#FFC66DFF",
-    "method.defaultLibrary": "#FFC66DFF",
+    "function.declaration": "#56A8F5",
+    "method.declaration": "#56A8F5",
+    "function.defaultLibrary": "#56A8F5",
+    "method.defaultLibrary": "#56A8F5",
     "*.deprecated": {
       "strikethrough": true
     },
@@ -73,11 +73,11 @@
       "italic": false
     },
     "property.static": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "variable.static": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "method.static": {
@@ -101,7 +101,7 @@
       "italic": false
     },
     "enumMember:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "class.static:java": {
@@ -109,11 +109,11 @@
       "italic": false
     },
     "*.static:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "method.declaration.static:java": {
-      "foreground": "#FFC66DFF",
+      "foreground": "#56A8F5",
       "italic": false
     },
     "method.static:java": {
@@ -125,15 +125,15 @@
       "italic": false
     },
     "property.readonly:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": false
     },
     "field.static:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "variable.constant:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "variable.defaultLibrary:java": "#CFD2D5FF",
@@ -150,26 +150,26 @@
       "italic": false
     },
     "recordField.static:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "typeParameter:java": "#16BAAC",
     "method.declaration:java": {
-      "foreground": "#FFC66DFF",
+      "foreground": "#56A8F5",
       "italic": false
     },
     "method:java": "#CFD2D5FF",
-    "property:java": "#A782BB",
-    "field:java": "#A782BB",
+    "property:java": "#C77DBBFF",
+    "field:java": "#C77DBBFF",
     "parameter:java": "#CFD2D5FF",
     "variable:java": "#CFD2D5FF",
     "local:java": "#CFD2D5FF",
     "punctuation:java": "#CFD2D5FF",
-    "annotation:java": "#BBB529FF",
-    "modifier:java": "#CC7832FF",
-    "keyword:java": "#CC7832FF",
+    "annotation:java": "#B3AE60",
+    "modifier:java": "#CF8E6D",
+    "keyword:java": "#CF8E6D",
     "property.static:java": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "*.deprecated:java": {
@@ -181,23 +181,23 @@
     "typeParameter:kotlin": "#16BAAC",
     "parameter:kotlin": "#CFD2D5FF",
     "variable:kotlin": "#CFD2D5FF",
-    "property:kotlin": "#A782BB",
+    "property:kotlin": "#C77DBBFF",
     "enumMember:kotlin": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "function:kotlin": "#CFD2D5FF",
-    "function.declaration:kotlin": "#FFC66DFF",
+    "function.declaration:kotlin": "#56A8F5",
     "method:kotlin": "#CFD2D5FF",
-    "method.declaration:kotlin": "#FFC66DFF",
-    "keyword:kotlin": "#CC7832FF",
-    "annotation:kotlin": "#BBB529FF",
+    "method.declaration:kotlin": "#56A8F5",
+    "keyword:kotlin": "#CF8E6D",
+    "annotation:kotlin": "#B3AE60",
     "*.static:kotlin": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "property.static:kotlin": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "method.static:kotlin": {
@@ -210,22 +210,22 @@
     "typeParameter:typescript": "#16BAAC",
     "parameter:typescript": "#CFD2D5FF",
     "variable:typescript": "#CFD2D5FF",
-    "property:typescript": "#A782BB",
+    "property:typescript": "#C77DBBFF",
     "enumMember:typescript": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "function:typescript": "#CFD2D5FF",
-    "function.declaration:typescript": "#FFC66DFF",
+    "function.declaration:typescript": "#56A8F5",
     "method:typescript": "#CFD2D5FF",
-    "method.declaration:typescript": "#FFC66DFF",
-    "keyword:typescript": "#CC7832FF",
+    "method.declaration:typescript": "#56A8F5",
+    "keyword:typescript": "#CF8E6D",
     "variable.readonly:typescript": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "property.readonly:typescript": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "class:typescriptreact": "#CFD2D5FF",
@@ -234,34 +234,34 @@
     "typeParameter:typescriptreact": "#16BAAC",
     "parameter:typescriptreact": "#CFD2D5FF",
     "variable:typescriptreact": "#CFD2D5FF",
-    "property:typescriptreact": "#A782BB",
+    "property:typescriptreact": "#C77DBBFF",
     "enumMember:typescriptreact": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "function:typescriptreact": "#CFD2D5FF",
-    "function.declaration:typescriptreact": "#FFC66DFF",
+    "function.declaration:typescriptreact": "#56A8F5",
     "method:typescriptreact": "#CFD2D5FF",
-    "method.declaration:typescriptreact": "#FFC66DFF",
-    "keyword:typescriptreact": "#CC7832FF",
+    "method.declaration:typescriptreact": "#56A8F5",
+    "keyword:typescriptreact": "#CF8E6D",
     "class:javascript": "#CFD2D5FF",
     "interface:javascript": "#CFD2D5FF",
     "enum:javascript": "#CFD2D5FF",
     "typeParameter:javascript": "#16BAAC",
     "parameter:javascript": "#CFD2D5FF",
     "variable:javascript": "#CFD2D5FF",
-    "property:javascript": "#A782BB",
+    "property:javascript": "#C77DBBFF",
     "enumMember:javascript": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "function:javascript": "#CFD2D5FF",
-    "function.declaration:javascript": "#FFC66DFF",
+    "function.declaration:javascript": "#56A8F5",
     "method:javascript": "#CFD2D5FF",
-    "method.declaration:javascript": "#FFC66DFF",
-    "keyword:javascript": "#CC7832FF",
+    "method.declaration:javascript": "#56A8F5",
+    "keyword:javascript": "#CF8E6D",
     "variable.readonly:javascript": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "class:javascriptreact": "#CFD2D5FF",
@@ -270,41 +270,41 @@
     "typeParameter:javascriptreact": "#16BAAC",
     "parameter:javascriptreact": "#CFD2D5FF",
     "variable:javascriptreact": "#CFD2D5FF",
-    "property:javascriptreact": "#A782BB",
+    "property:javascriptreact": "#C77DBBFF",
     "enumMember:javascriptreact": {
-      "foreground": "#A782BB",
+      "foreground": "#C77DBBFF",
       "italic": true
     },
     "function:javascriptreact": "#CFD2D5FF",
-    "function.declaration:javascriptreact": "#FFC66DFF",
+    "function.declaration:javascriptreact": "#56A8F5",
     "method:javascriptreact": "#CFD2D5FF",
-    "method.declaration:javascriptreact": "#FFC66DFF",
-    "keyword:javascriptreact": "#CC7832FF",
+    "method.declaration:javascriptreact": "#56A8F5",
+    "keyword:javascriptreact": "#CF8E6D",
     "class:python": "#CFD2D5FF",
     "function:python": "#CFD2D5FF",
-    "function.declaration:python": "#FFC66DFF",
+    "function.declaration:python": "#56A8F5",
     "method:python": "#CFD2D5FF",
-    "method.declaration:python": "#FFC66DFF",
+    "method.declaration:python": "#56A8F5",
     "parameter:python": "#CFD2D5FF",
     "variable:python": "#CFD2D5FF",
-    "property:python": "#A782BB",
-    "decorator:python": "#BBB529FF",
-    "keyword:python": "#CC7832FF",
-    "builtinConstant:python": "#A782BB",
-    "selfParameter:python": "#CC7832FF",
-    "clsParameter:python": "#CC7832FF",
-    "magicFunction:python": "#FFC66DFF",
+    "property:python": "#C77DBBFF",
+    "decorator:python": "#B3AE60",
+    "keyword:python": "#CF8E6D",
+    "builtinConstant:python": "#C77DBBFF",
+    "selfParameter:python": "#CF8E6D",
+    "clsParameter:python": "#CF8E6D",
+    "magicFunction:python": "#56A8F5",
     "class:go": "#CFD2D5FF",
     "type:go": "#CFD2D5FF",
     "interface:go": "#CFD2D5FF",
     "function:go": "#CFD2D5FF",
-    "function.declaration:go": "#FFC66DFF",
+    "function.declaration:go": "#56A8F5",
     "method:go": "#CFD2D5FF",
-    "method.declaration:go": "#FFC66DFF",
+    "method.declaration:go": "#56A8F5",
     "parameter:go": "#CFD2D5FF",
     "variable:go": "#CFD2D5FF",
-    "property:go": "#A782BB",
-    "keyword:go": "#CC7832FF",
+    "property:go": "#C77DBBFF",
+    "keyword:go": "#CF8E6D",
     "namespace:go": "#CFD2D5FF",
     "class:rust": "#CFD2D5FF",
     "struct:rust": "#CFD2D5FF",
@@ -312,14 +312,14 @@
     "interface:rust": "#CFD2D5FF",
     "typeParameter:rust": "#16BAAC",
     "function:rust": "#CFD2D5FF",
-    "function.declaration:rust": "#FFC66DFF",
+    "function.declaration:rust": "#56A8F5",
     "method:rust": "#CFD2D5FF",
-    "method.declaration:rust": "#FFC66DFF",
+    "method.declaration:rust": "#56A8F5",
     "parameter:rust": "#CFD2D5FF",
     "variable:rust": "#CFD2D5FF",
-    "property:rust": "#A782BB",
-    "keyword:rust": "#CC7832FF",
-    "macro:rust": "#CC7832FF",
+    "property:rust": "#C77DBBFF",
+    "keyword:rust": "#CF8E6D",
+    "macro:rust": "#CF8E6D",
     "lifetime:rust": "#16BAAC",
     "class:csharp": "#CFD2D5FF",
     "struct:csharp": "#CFD2D5FF",
@@ -327,59 +327,59 @@
     "interface:csharp": "#CFD2D5FF",
     "typeParameter:csharp": "#16BAAC",
     "function:csharp": "#CFD2D5FF",
-    "function.declaration:csharp": "#FFC66DFF",
+    "function.declaration:csharp": "#56A8F5",
     "method:csharp": "#CFD2D5FF",
-    "method.declaration:csharp": "#FFC66DFF",
+    "method.declaration:csharp": "#56A8F5",
     "parameter:csharp": "#CFD2D5FF",
     "variable:csharp": "#CFD2D5FF",
-    "property:csharp": "#A782BB",
-    "keyword:csharp": "#CC7832FF",
+    "property:csharp": "#C77DBBFF",
+    "keyword:csharp": "#CF8E6D",
     "namespace:csharp": "#CFD2D5FF",
     "class:cpp": "#CFD2D5FF",
     "struct:cpp": "#CFD2D5FF",
     "enum:cpp": "#CFD2D5FF",
     "typeParameter:cpp": "#16BAAC",
     "function:cpp": "#CFD2D5FF",
-    "function.declaration:cpp": "#FFC66DFF",
+    "function.declaration:cpp": "#56A8F5",
     "method:cpp": "#CFD2D5FF",
-    "method.declaration:cpp": "#FFC66DFF",
+    "method.declaration:cpp": "#56A8F5",
     "parameter:cpp": "#CFD2D5FF",
     "variable:cpp": "#CFD2D5FF",
-    "property:cpp": "#A782BB",
-    "keyword:cpp": "#CC7832FF",
+    "property:cpp": "#C77DBBFF",
+    "keyword:cpp": "#CF8E6D",
     "namespace:cpp": "#CFD2D5FF",
-    "macro:cpp": "#CC7832FF",
+    "macro:cpp": "#CF8E6D",
     "class:c": "#CFD2D5FF",
     "struct:c": "#CFD2D5FF",
     "enum:c": "#CFD2D5FF",
     "function:c": "#CFD2D5FF",
-    "function.declaration:c": "#FFC66DFF",
+    "function.declaration:c": "#56A8F5",
     "parameter:c": "#CFD2D5FF",
     "variable:c": "#CFD2D5FF",
-    "property:c": "#A782BB",
-    "keyword:c": "#CC7832FF",
-    "macro:c": "#CC7832FF",
+    "property:c": "#C77DBBFF",
+    "keyword:c": "#CF8E6D",
+    "macro:c": "#CF8E6D",
     "class:php": "#CFD2D5FF",
     "interface:php": "#CFD2D5FF",
     "enum:php": "#CFD2D5FF",
     "function:php": "#CFD2D5FF",
-    "function.declaration:php": "#FFC66DFF",
+    "function.declaration:php": "#56A8F5",
     "method:php": "#CFD2D5FF",
-    "method.declaration:php": "#FFC66DFF",
+    "method.declaration:php": "#56A8F5",
     "parameter:php": "#CFD2D5FF",
-    "variable:php": "#A782BB",
-    "property:php": "#A782BB",
-    "keyword:php": "#CC7832FF",
+    "variable:php": "#C77DBBFF",
+    "property:php": "#C77DBBFF",
+    "keyword:php": "#CF8E6D",
     "namespace:php": "#CFD2D5FF",
     "class:ruby": "#CFD2D5FF",
     "function:ruby": "#CFD2D5FF",
-    "function.declaration:ruby": "#FFC66DFF",
+    "function.declaration:ruby": "#56A8F5",
     "method:ruby": "#CFD2D5FF",
-    "method.declaration:ruby": "#FFC66DFF",
+    "method.declaration:ruby": "#56A8F5",
     "parameter:ruby": "#CFD2D5FF",
     "variable:ruby": "#CFD2D5FF",
-    "property:ruby": "#A782BB",
-    "keyword:ruby": "#CC7832FF",
+    "property:ruby": "#C77DBBFF",
+    "keyword:ruby": "#CF8E6D",
     "namespace:ruby": "#CFD2D5FF"
   },
   "tokenColors": [
@@ -449,7 +449,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -471,7 +471,7 @@
         "string constant.character.escape"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -497,7 +497,7 @@
         "constant.language.undefined"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -529,7 +529,7 @@
         "keyword.operator.negation.regexp"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -570,7 +570,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -636,7 +636,7 @@
         "variable.language.super"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -646,7 +646,7 @@
         "entity.name.constant"
       ],
       "settings": {
-        "foreground": "#A782BB",
+        "foreground": "#C77DBBFF",
         "fontStyle": "italic"
       }
     },
@@ -659,7 +659,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -683,7 +683,7 @@
         "meta.annotation"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {
@@ -788,7 +788,7 @@
         "punctuation.definition.constant.xml"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -868,7 +868,7 @@
         "punctuation.definition.entity.html"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -879,7 +879,7 @@
         "keyword.other.doctype.html"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -912,7 +912,7 @@
         "constant.other.rgb-value.css"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -943,7 +943,7 @@
         "keyword.other.important.css"
       ],
       "settings": {
-        "foreground": "#CC7832FF",
+        "foreground": "#CF8E6D",
         "fontStyle": "bold"
       }
     },
@@ -976,7 +976,7 @@
         "keyword.control.at-rule.keyframes.css"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -988,7 +988,7 @@
         "support.function.misc.css"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1007,7 +1007,7 @@
         "variable.other.less"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -1017,7 +1017,7 @@
         "entity.name.mixin.less"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1027,7 +1027,7 @@
         "variable.sass"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -1038,7 +1038,7 @@
         "keyword.control.at-rule.include.scss"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1078,7 +1078,7 @@
         "keyword.control.default.ts"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1090,7 +1090,7 @@
         "variable.language.this.tsx"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1108,7 +1108,7 @@
         "constant.language.undefined.ts"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1124,7 +1124,7 @@
         "meta.function-call.ts entity.name.function.ts"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1160,7 +1160,7 @@
         "meta.object-literal.key.ts"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -1170,7 +1170,7 @@
         "variable.other.constant.ts"
       ],
       "settings": {
-        "foreground": "#A782BB",
+        "foreground": "#C77DBBFF",
         "fontStyle": "italic"
       }
     },
@@ -1256,7 +1256,7 @@
         "punctuation.decorator.ts"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {
@@ -1348,7 +1348,7 @@
         "keyword.soft.kotlin"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1359,7 +1359,7 @@
         "entity.name.tag.gradle"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1369,7 +1369,7 @@
         "entity.name.function.declaration.kotlin"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1420,7 +1420,7 @@
         "variable.other.property.kotlin"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -1449,7 +1449,7 @@
         "punctuation.definition.annotation.kotlin"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {
@@ -1501,7 +1501,7 @@
         "entity.name.variable.kotlin"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1510,7 +1510,7 @@
         "constant.character.escape.kotlin"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1546,7 +1546,7 @@
         "constant.language.boolean.false.kotlin"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1573,7 +1573,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#CC7832FF",
+        "foreground": "#CF8E6D",
         "fontStyle": "bold"
       }
     },
@@ -1605,7 +1605,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1614,7 +1614,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#FFC66DFF",
+        "foreground": "#56A8F5",
         "fontStyle": "underline"
       }
     },
@@ -1662,7 +1662,7 @@
         "punctuation.definition.list.begin.markdown"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1691,7 +1691,7 @@
         "support.type.property-name.yaml"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1736,7 +1736,7 @@
         "punctuation.definition.directive.yaml"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1754,7 +1754,7 @@
         "constant.language.yaml"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1785,7 +1785,7 @@
         "storage.modifier.sql"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1805,7 +1805,7 @@
         "entity.name.function.sql"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1866,7 +1866,7 @@
         "storage.type.dockerfile"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1876,7 +1876,7 @@
         "keyword.other.special-method.dockerfile"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1885,7 +1885,7 @@
         "variable.other.dockerfile"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -1925,7 +1925,7 @@
         "keyword.other.groovy"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -1934,7 +1934,7 @@
         "entity.name.function.groovy"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -1963,7 +1963,7 @@
         "variable.other.property.groovy"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -1973,7 +1973,7 @@
         "punctuation.definition.annotation.groovy"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {
@@ -2034,7 +2034,7 @@
         "support.type.property-name.ini"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2074,7 +2074,7 @@
         "punctuation.definition.variable.properties"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2086,7 +2086,7 @@
         "storage.modifier.shell"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2096,7 +2096,7 @@
         "support.function.shell"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2107,7 +2107,7 @@
         "punctuation.definition.variable.shell"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2158,7 +2158,7 @@
         "storage.modifier.python"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2168,7 +2168,7 @@
         "support.function.python"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2177,7 +2177,7 @@
         "support.function.magic.python"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2197,7 +2197,7 @@
         "variable.language.cls.python"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2216,7 +2216,7 @@
         "variable.other.property.python"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2227,7 +2227,7 @@
         "meta.function.decorator.python"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {
@@ -2277,7 +2277,7 @@
         "storage.type.go"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2287,7 +2287,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2316,7 +2316,7 @@
         "variable.other.property.go"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2358,7 +2358,7 @@
         "storage.modifier.rust"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2368,7 +2368,7 @@
         "support.function.rust"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2378,7 +2378,7 @@
         "support.macro.rust"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2430,7 +2430,7 @@
         "variable.other.member.rust"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2484,7 +2484,7 @@
         "storage.modifier.cpp"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2496,7 +2496,7 @@
         "keyword.control.directive.cpp"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2506,7 +2506,7 @@
         "entity.name.function.cpp"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2551,7 +2551,7 @@
         "variable.other.member.cpp"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2607,7 +2607,7 @@
         "storage.modifier.csharp"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2616,7 +2616,7 @@
         "entity.name.function.csharp"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2656,7 +2656,7 @@
         "variable.other.property.csharp"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2666,7 +2666,7 @@
         "entity.name.type.attribute.csharp"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {
@@ -2716,7 +2716,7 @@
         "storage.modifier.php"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2726,7 +2726,7 @@
         "support.function.php"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2747,7 +2747,7 @@
         "punctuation.definition.variable.php"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2756,7 +2756,7 @@
         "variable.other.property.php"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2765,7 +2765,7 @@
         "variable.language.this.php"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2816,7 +2816,7 @@
         "storage.modifier.ruby"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2826,7 +2826,7 @@
         "support.function.ruby"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -2855,7 +2855,7 @@
         "variable.other.readwrite.instance.ruby"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2864,7 +2864,7 @@
         "variable.other.readwrite.class.ruby"
       ],
       "settings": {
-        "foreground": "#A782BB",
+        "foreground": "#C77DBBFF",
         "fontStyle": "italic"
       }
     },
@@ -2926,7 +2926,7 @@
         "punctuation.support.type.property-name.end.json"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -2954,7 +2954,7 @@
         "constant.language.null.json"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -2988,7 +2988,7 @@
         "entity.name.tag.toml"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -3026,7 +3026,7 @@
         "constant.language.toml"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -3044,7 +3044,7 @@
         "keyword.other.definition.ini"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -3081,7 +3081,7 @@
         "entity.name.function.target.makefile"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -3090,7 +3090,7 @@
         "variable.other.makefile"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -3146,7 +3146,7 @@
         "meta.diff.header"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -3166,7 +3166,7 @@
         "keyword.type.graphql"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -3184,7 +3184,7 @@
         "variable.graphql"
       ],
       "settings": {
-        "foreground": "#A782BB"
+        "foreground": "#C77DBBFF"
       }
     },
     {
@@ -3295,7 +3295,7 @@
         "meta.method.identifier.java"
       ],
       "settings": {
-        "foreground": "#FFC66DFF"
+        "foreground": "#56A8F5"
       }
     },
     {
@@ -3329,7 +3329,7 @@
         "variable.other.object.property.java"
       ],
       "settings": {
-        "foreground": "#CC7832FF"
+        "foreground": "#CF8E6D"
       }
     },
     {
@@ -3339,7 +3339,7 @@
         "punctuation.definition.annotation.java"
       ],
       "settings": {
-        "foreground": "#BBB529FF"
+        "foreground": "#B3AE60"
       }
     },
     {

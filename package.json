@@ -2,7 +2,7 @@
   "name": "ion-theme",
   "displayName": "Ion Theme",
   "description": "Dark and Light themes for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "milic-marko",
   "author": {
     "name": "Marko Milic",
@@ -37,6 +37,11 @@
         "label": "Ion Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ion-dark-theme.json"
+      },
+      {
+        "label": "Ion Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ion-dark-modern-theme.json"
       },
       {
         "label": "Ion Dark Classic",
