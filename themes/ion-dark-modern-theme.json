@@ -3344,6 +3344,16 @@
       }
     },
     {
+      "name": "Java - Method Variable",
+      "scope": [
+        "meta.method.body.java meta.definition.variable.java variable.other.definition.java"
+      ],
+      "settings": {
+        "foreground": "#cfd2d5",
+        "fontStyle": "underline"
+      }
+    },
+    {
       "name": "Java - Numbers",
       "scope": [
         "source.java constant.numeric",
