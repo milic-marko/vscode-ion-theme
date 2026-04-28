@@ -3344,6 +3344,17 @@
       }
     },
     {
+      "name": "Java - Enum",
+      "scope": [
+        "meta.method-call.java variable.other.object.property.java",
+        "meta.function-call.java variable.other.object.property.java",
+      ],
+      "settings": {
+        "foreground": "#a782bb",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Java - Method Variable",
       "scope": [
         "meta.method.body.java meta.definition.variable.java variable.other.definition.java"
