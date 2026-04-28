@@ -3354,6 +3354,17 @@
       }
     },
     {
+      "name": "Java - Enum",
+      "scope": [
+        "meta.method-call.java variable.other.object.property.java",
+        "meta.function-call.java variable.other.object.property.java",
+      ],
+      "settings": {
+        "foreground": "#c77dbb",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Java - Numbers",
       "scope": [
         "source.java constant.numeric",
