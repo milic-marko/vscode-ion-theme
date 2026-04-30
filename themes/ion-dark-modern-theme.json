@@ -3356,6 +3356,8 @@
     {
       "name": "Java - Enum",
       "scope": [
+        "constant.other.enum.java",
+        "meta.declaration.annotation.java variable.other.object.property.java",
         "meta.method-call.java variable.other.object.property.java",
         "meta.function-call.java variable.other.object.property.java",
       ],

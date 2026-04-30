@@ -39,10 +39,10 @@
       "foreground": "#C77DBBFF",
       "italic": true
     },
-    "function.declaration": "#56A8F5",
-    "method.declaration": "#56A8F5",
-    "function.defaultLibrary": "#56A8F5",
-    "method.defaultLibrary": "#56A8F5",
+    "function.declaration": "#EEE8A9",
+    "method.declaration": "#EEE8A9",
+    "function.defaultLibrary": "#EEE8A9",
+    "method.defaultLibrary": "#EEE8A9",
     "*.deprecated": {
       "strikethrough": true
     },
@@ -114,7 +114,7 @@
       "italic": true
     },
     "method.declaration.static:java": {
-      "foreground": "#56A8F5",
+      "foreground": "#EEE8A9",
       "italic": false
     },
     "method.static:java": {
@@ -188,9 +188,9 @@
       "italic": true
     },
     "function:kotlin": "#CFD2D5FF",
-    "function.declaration:kotlin": "#56A8F5",
+    "function.declaration:kotlin": "#EEE8A9",
     "method:kotlin": "#CFD2D5FF",
-    "method.declaration:kotlin": "#56A8F5",
+    "method.declaration:kotlin": "#EEE8A9",
     "keyword:kotlin": "#75a2be",
     "annotation:kotlin": "#B3AE60",
     "*.static:kotlin": {
@@ -217,9 +217,9 @@
       "italic": true
     },
     "function:typescript": "#CFD2D5FF",
-    "function.declaration:typescript": "#56A8F5",
+    "function.declaration:typescript": "#EEE8A9",
     "method:typescript": "#CFD2D5FF",
-    "method.declaration:typescript": "#56A8F5",
+    "method.declaration:typescript": "#EEE8A9",
     "keyword:typescript": "#75a2be",
     "variable.readonly:typescript": {
       "foreground": "#C77DBBFF",
@@ -241,9 +241,9 @@
       "italic": true
     },
     "function:typescriptreact": "#CFD2D5FF",
-    "function.declaration:typescriptreact": "#56A8F5",
+    "function.declaration:typescriptreact": "#EEE8A9",
     "method:typescriptreact": "#CFD2D5FF",
-    "method.declaration:typescriptreact": "#56A8F5",
+    "method.declaration:typescriptreact": "#EEE8A9",
     "keyword:typescriptreact": "#75a2be",
     "class:javascript": "#CFD2D5FF",
     "interface:javascript": "#CFD2D5FF",
@@ -257,9 +257,9 @@
       "italic": true
     },
     "function:javascript": "#CFD2D5FF",
-    "function.declaration:javascript": "#56A8F5",
+    "function.declaration:javascript": "#EEE8A9",
     "method:javascript": "#CFD2D5FF",
-    "method.declaration:javascript": "#56A8F5",
+    "method.declaration:javascript": "#EEE8A9",
     "keyword:javascript": "#75a2be",
     "variable.readonly:javascript": {
       "foreground": "#C77DBBFF",
@@ -277,15 +277,15 @@
       "italic": true
     },
     "function:javascriptreact": "#CFD2D5FF",
-    "function.declaration:javascriptreact": "#56A8F5",
+    "function.declaration:javascriptreact": "#EEE8A9",
     "method:javascriptreact": "#CFD2D5FF",
-    "method.declaration:javascriptreact": "#56A8F5",
+    "method.declaration:javascriptreact": "#EEE8A9",
     "keyword:javascriptreact": "#75a2be",
     "class:python": "#CFD2D5FF",
     "function:python": "#CFD2D5FF",
-    "function.declaration:python": "#56A8F5",
+    "function.declaration:python": "#EEE8A9",
     "method:python": "#CFD2D5FF",
-    "method.declaration:python": "#56A8F5",
+    "method.declaration:python": "#EEE8A9",
     "parameter:python": "#CFD2D5FF",
     "variable:python": "#CFD2D5FF",
     "property:python": "#C77DBBFF",
@@ -294,14 +294,14 @@
     "builtinConstant:python": "#C77DBBFF",
     "selfParameter:python": "#75a2be",
     "clsParameter:python": "#75a2be",
-    "magicFunction:python": "#56A8F5",
+    "magicFunction:python": "#EEE8A9",
     "class:go": "#CFD2D5FF",
     "type:go": "#CFD2D5FF",
     "interface:go": "#CFD2D5FF",
     "function:go": "#CFD2D5FF",
-    "function.declaration:go": "#56A8F5",
+    "function.declaration:go": "#EEE8A9",
     "method:go": "#CFD2D5FF",
-    "method.declaration:go": "#56A8F5",
+    "method.declaration:go": "#EEE8A9",
     "parameter:go": "#CFD2D5FF",
     "variable:go": "#CFD2D5FF",
     "property:go": "#C77DBBFF",
@@ -313,9 +313,9 @@
     "interface:rust": "#CFD2D5FF",
     "typeParameter:rust": "#16BAAC",
     "function:rust": "#CFD2D5FF",
-    "function.declaration:rust": "#56A8F5",
+    "function.declaration:rust": "#EEE8A9",
     "method:rust": "#CFD2D5FF",
-    "method.declaration:rust": "#56A8F5",
+    "method.declaration:rust": "#EEE8A9",
     "parameter:rust": "#CFD2D5FF",
     "variable:rust": "#CFD2D5FF",
     "property:rust": "#C77DBBFF",
@@ -328,9 +328,9 @@
     "interface:csharp": "#CFD2D5FF",
     "typeParameter:csharp": "#16BAAC",
     "function:csharp": "#CFD2D5FF",
-    "function.declaration:csharp": "#56A8F5",
+    "function.declaration:csharp": "#EEE8A9",
     "method:csharp": "#CFD2D5FF",
-    "method.declaration:csharp": "#56A8F5",
+    "method.declaration:csharp": "#EEE8A9",
     "parameter:csharp": "#CFD2D5FF",
     "variable:csharp": "#CFD2D5FF",
     "property:csharp": "#C77DBBFF",
@@ -341,9 +341,9 @@
     "enum:cpp": "#CFD2D5FF",
     "typeParameter:cpp": "#16BAAC",
     "function:cpp": "#CFD2D5FF",
-    "function.declaration:cpp": "#56A8F5",
+    "function.declaration:cpp": "#EEE8A9",
     "method:cpp": "#CFD2D5FF",
-    "method.declaration:cpp": "#56A8F5",
+    "method.declaration:cpp": "#EEE8A9",
     "parameter:cpp": "#CFD2D5FF",
     "variable:cpp": "#CFD2D5FF",
     "property:cpp": "#C77DBBFF",
@@ -354,7 +354,7 @@
     "struct:c": "#CFD2D5FF",
     "enum:c": "#CFD2D5FF",
     "function:c": "#CFD2D5FF",
-    "function.declaration:c": "#56A8F5",
+    "function.declaration:c": "#EEE8A9",
     "parameter:c": "#CFD2D5FF",
     "variable:c": "#CFD2D5FF",
     "property:c": "#C77DBBFF",
@@ -364,9 +364,9 @@
     "interface:php": "#CFD2D5FF",
     "enum:php": "#CFD2D5FF",
     "function:php": "#CFD2D5FF",
-    "function.declaration:php": "#56A8F5",
+    "function.declaration:php": "#EEE8A9",
     "method:php": "#CFD2D5FF",
-    "method.declaration:php": "#56A8F5",
+    "method.declaration:php": "#EEE8A9",
     "parameter:php": "#CFD2D5FF",
     "variable:php": "#C77DBBFF",
     "property:php": "#C77DBBFF",
@@ -374,9 +374,9 @@
     "namespace:php": "#CFD2D5FF",
     "class:ruby": "#CFD2D5FF",
     "function:ruby": "#CFD2D5FF",
-    "function.declaration:ruby": "#56A8F5",
+    "function.declaration:ruby": "#EEE8A9",
     "method:ruby": "#CFD2D5FF",
-    "method.declaration:ruby": "#56A8F5",
+    "method.declaration:ruby": "#EEE8A9",
     "parameter:ruby": "#CFD2D5FF",
     "variable:ruby": "#CFD2D5FF",
     "property:ruby": "#C77DBBFF",
@@ -571,7 +571,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -789,7 +789,7 @@
         "punctuation.definition.constant.xml"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -869,7 +869,7 @@
         "punctuation.definition.entity.html"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -913,7 +913,7 @@
         "constant.other.rgb-value.css"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -989,7 +989,7 @@
         "support.function.misc.css"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -1018,7 +1018,7 @@
         "entity.name.mixin.less"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -1039,7 +1039,7 @@
         "keyword.control.at-rule.include.scss"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -1125,7 +1125,7 @@
         "meta.function-call.ts entity.name.function.ts"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -1370,7 +1370,7 @@
         "entity.name.function.declaration.kotlin"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -1606,7 +1606,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -1615,7 +1615,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#56A8F5",
+        "foreground": "#EEE8A9",
         "fontStyle": "underline"
       }
     },
@@ -1935,7 +1935,7 @@
         "entity.name.function.groovy"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2097,7 +2097,7 @@
         "support.function.shell"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2169,7 +2169,7 @@
         "support.function.python"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2178,7 +2178,7 @@
         "support.function.magic.python"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2288,7 +2288,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2369,7 +2369,7 @@
         "support.function.rust"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2507,7 +2507,7 @@
         "entity.name.function.cpp"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2617,7 +2617,7 @@
         "entity.name.function.csharp"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2727,7 +2727,7 @@
         "support.function.php"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -2827,7 +2827,7 @@
         "support.function.ruby"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -3082,7 +3082,7 @@
         "entity.name.function.target.makefile"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -3147,7 +3147,7 @@
         "meta.diff.header"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#EEE8A9"
       }
     },
     {
@@ -3296,7 +3296,7 @@
         "meta.method.identifier.java"
       ],
       "settings": {
-        "foreground": "#56A8F5"
+        "foreground": "#eee8a9"
       }
     },
     {
@@ -3356,6 +3356,8 @@
     {
       "name": "Java - Enum",
       "scope": [
+        "constant.other.enum.java",
+        "meta.declaration.annotation.java variable.other.object.property.java",
         "meta.method-call.java variable.other.object.property.java",
         "meta.function-call.java variable.other.object.property.java",
       ],
