@@ -167,6 +167,7 @@
     "local:java": "#CFD2D5FF",
     "punctuation:java": "#CFD2D5FF",
     "annotation:java": "#B3AE60",
+    "annotation.static:java": "#B3AE60",
     "modifier:java": "#CF8E6D",
     "keyword:java": "#CF8E6D",
     "property.static:java": {

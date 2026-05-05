@@ -26,6 +26,13 @@
     "light",
     "java",
     "kotlin",
+    "darcula",
+    "dracula",
+    "light",
+    "storm",
+    "blue",
+    "spring",
+    "boot",
     "color",
     "css",
     "ide"
@@ -44,11 +51,6 @@
         "path": "./themes/ion-dark-modern-theme.json"
       },
       {
-        "label": "Ion Dark Modern Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ion-dark-modern-blue-theme.json"
-      },
-      {
         "label": "Ion Dark Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/ion-dark-classic-theme.json"
@@ -57,11 +59,6 @@
         "label": "Ion Light",
         "uiTheme": "vs",
         "path": "./themes/ion-light-theme.json"
-      },
-      {
-        "label": "Ion Light Modern",
-        "uiTheme": "vs",
-        "path": "./themes/ion-light-modern-theme.json"
       }
     ]
   },
