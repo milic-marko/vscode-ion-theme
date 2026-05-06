@@ -169,8 +169,7 @@
     "annotation:java": "#9E880D",
     "annotation.static:java": "#9E880D",
     "modifier:java": {
-      "foreground": "#0033B3",
-      "fontStyle": "bold"
+      "foreground": "#0033B3"
     },
     "keyword:java": "#0033B3",
     "property.static:java": {
