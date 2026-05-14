@@ -548,8 +548,7 @@
         "keyword.operator.of"
       ],
       "settings": {
-        "foreground": "#0033B3",
-        "fontStyle": "bold"
+        "foreground": "#0033B3"
       }
     },
     {
