@@ -32,6 +32,7 @@ For the best experience, add these settings to your `settings.json`:
   "editor.fontFamily": "JetBrains Mono, Fira Code, monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
+  "editor.fontWeight": "350",
   "editor.lineHeight": 1.6,
   "editor.semanticHighlighting.enabled": true
 }
