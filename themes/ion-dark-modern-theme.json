@@ -139,6 +139,7 @@
     },
     "variable.defaultLibrary:java": "#CFD2D5FF",
     "class:java": "#CFD2D5FF",
+    "class.constructor": "#eee8a9",
     "type:java": "#CFD2D5FF",
     "namespace:java": "#CFD2D5FF",
     "interface:java": "#CFD2D5FF",
