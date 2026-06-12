@@ -383,7 +383,16 @@
     "variable:ruby": "#CFD2D5FF",
     "property:ruby": "#C77DBBFF",
     "keyword:ruby": "#75a2be",
-    "namespace:ruby": "#CFD2D5FF"
+    "namespace:ruby": "#CFD2D5FF",
+    // DART
+    "property:dart": "#CFD2D5FF",
+    "property.instance:dart": "#C77DBBFF",
+    "annotation:dart": "#eee8a9",
+    "function:dart": "#75a2be",
+    "function.static:dart": "#75a2be",
+    "method:dart": "#75a2be",
+    "method.static:dart": "#75a2be",
+    "source.interpolation:dart": "#CFD2D5FF",
   },
   "tokenColors": [
     {

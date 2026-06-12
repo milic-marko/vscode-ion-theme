@@ -345,7 +345,16 @@
     "function:c": "#000000",
     "function.declaration:c": "#00627A",
     "keyword:c": "#0033B3",
-    "macro:c": "#0033B3"
+    "macro:c": "#0033B3",
+    // DART
+    // "property:dart": "#CFD2D5FF",
+    // "property.instance:dart": "#C77DBBFF",
+    // "annotation:dart": "#eee8a9",
+    // "function:dart": "#75a2be",
+    // "function.static:dart": "#75a2be",
+    // "method:dart": "#75a2be",
+    // "method.static:dart": "#75a2be",
+    // "source.interpolation:dart": "#CFD2D5FF",
   },
   "colors": {
     // base colors
